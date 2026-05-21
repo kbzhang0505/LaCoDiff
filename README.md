@@ -1,5 +1,5 @@
 # LaCoDiff
-LaCoDiff: Box-Guided Layout-Attribute Coupled Diffusion for Precise Textile Texture Generation
+LaCoDiff:  Structured Layout-Attribute Coupled Diffusion for Controllable Textile Texture Generation
 
 Code will be released later.
 ## Challenges
