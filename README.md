@@ -22,4 +22,5 @@ Figure 3. Qualitative comparison of layout control result by different methods. 
 
 Table 1. Quantitative results of different methods on the TileVL dataset. The best and second-best results are highlighted in bold and underlined, respectively.
 
-<img width="1401" height="450" alt="image" src="https://github.com/user-attachments/assets/5cc7fc6f-3c6d-400e-8be6-6026abd53c48" />
+<img width="1399" height="616" alt="image" src="https://github.com/user-attachments/assets/58085fad-95e0-4818-a143-82e20cf2868a" />
+
