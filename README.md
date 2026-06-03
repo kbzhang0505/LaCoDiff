@@ -1,12 +1,12 @@
 # LaCoDiff
-LaCoDiff:  Structured Layout-Attribute Coupled Diffusion for Controllable Textile Texture Generation
+LaCoDiff:  Structured Layout-Attribute Coupled Diffusion for Controllable Texture Generation
 
 Code will be released later.
 ## Challenges
 As illustrated in Figure 1, generating layout-controllable textures is a non-trivial task. The model must generate objects of appropriate size within each bounding box, while ensuring that object category attributes are consistent with the box labels and that color attributes are aligned with the prompt. While existing methods perform well with a small number of bounding boxes, they face significant challenges when dealing with complex multi-object scenarios with rich semantics, leading to: (i) inaccurate layout and (ii) incorrect attribute binding.
 
 <img width="902" height="697" alt="FIg1" src="https://github.com/user-attachments/assets/7847194c-ab06-4fac-abe9-6d25c7f88079" />
-Figure 1. Challenges in textile texture layout control. Given text prompts and bounding box layouts, existing methods struggle with inaccurate layout control and incorrect attribute binding. Our method produces precise layouts with accurately generated patterns.
+Figure 1. Challenges in texture layout control. Given text prompts and bounding box layouts, existing methods struggle with inaccurate layout control and incorrect attribute binding. Our method produces precise layouts with accurately generated patterns.
 
 ## The Overall Framework
 
