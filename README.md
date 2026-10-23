@@ -10,7 +10,8 @@ Figure 1. Challenges in texture layout control. Given text prompts and bounding 
 
 ## The Overall Framework
 
-<img width="1458" height="680" alt="Pipeline-1" src="https://github.com/user-attachments/assets/e7acf6d5-b1ad-4cf7-b207-6eef0a939ba4" />
+<img width="3343" height="1558" alt="Pipeline-1" src="https://github.com/user-attachments/assets/3d2c9463-c155-406c-944d-41bef615c6d8" />
+
 Figure 2. Overall architecture of the proposed LaCoDiff. The proposed framework supports flexible multi-modal input configurations. Users can specify the desired layout by providing either bounding box maps or layout reference images. Conditioned on these layout inputs and textual prompts, the model can generate textures that faithfully align with the specified spatial layouts while achieving consistent binding across multiple semantic attributes described in the text.
 
 ## Qualitative results
