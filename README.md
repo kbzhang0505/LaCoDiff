@@ -21,7 +21,8 @@ Figure 3. Qualitative comparison of layout control result by different methods. 
 
 ## Quantitative results
 
-Table 1. Quantitative results of different methods on the TileVL dataset. The best and second-best results are highlighted in bold and underlined, respectively.
+Table 1.Quantitative results of different methods on the TileVL dataset. The best results are highlighted in bold and the second-best results are underlined. Results for all methods are averaged over three random seeds (42, 123, and 2026) to improve evaluation reliability. All model weights are loaded in FP32 precision to ensure a fair comparison of GPU memory consumption.
 
-<img width="1399" height="616" alt="image" src="https://github.com/user-attachments/assets/58085fad-95e0-4818-a143-82e20cf2868a" />
+<img width="1220" height="581" alt="ScreenShot_2026-10-25_105655_783" src="https://github.com/user-attachments/assets/f84d387c-d69e-4421-89d9-e8c60b7e514c" />
+
 
